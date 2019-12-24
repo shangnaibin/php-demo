@@ -9,7 +9,7 @@
 </head>
 <body>
     <text>我是谁</text>
-    <text>你是：</text><?php
+    <text>是：</text><?php
         echo 'shangnaibin';
     ?>
 </body>
